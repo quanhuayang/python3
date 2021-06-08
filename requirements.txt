@@ -22,7 +22,7 @@ jsonschema==2.6.0
 lxml==4.2.5
 mysql-connector-python==8.0.13
 openpyxl==2.5.10
-Pillow==5.3.0
+Pillow==8.2.0
 protobuf==3.6.1
 pyasn1==0.4.4
 PyAutoGUI==0.9.38
